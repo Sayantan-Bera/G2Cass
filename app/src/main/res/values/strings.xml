@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UIas</string>
+    <string name="get_transparent_service_pricing"><![CDATA[Get transparent service &]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="geartocare_s_benefits">GearToCare\'s Benefits</string>
+    <string name="save_your_time_and_energy">save your time and energy</string>
+    <string name="check_list">Check-List</string>
+    <string name="delete">Delete?</string>
+    <string name="check">Check</string>
+    <string name="add_check_item">Add Check Item</string>
+    <string name="which_engine_oil_do_you_use">Which Engine oil do you use?</string>
+    <string name="frequently_asked_questions">Frequently asked questions</string>
+    <string name="professional_service_by_them_best_part_is_gear_to_care_provides_price_details_upfront_and_informs_the_technician_arroval_time_while_booking_itself_i_am_happy_with_the_service">Professional service by them.Best part is gear to care provides price details upfront and informs the technician arroval time while booking itself.I am happy with the service</string>
+    <string name="aditya_singh">Aditya Singh</string>
+    <string name="what_customer_say_about_us">What customer say about us</string>
+    <string name="see_full_servicing_checklist">See full servicing checklist</string>
+    <string name="clutch_cable_freeplay">Clutch cable freeplay</string>
+    <string name="front_back_drum_rubbing">Front back drum rubbing</string>
+    <string name="chain_and_sprooket_adjustment">Chain and sprooket adjustment</string>
+    <string name="break_shoe_pad_rubbing">Break shoe/pad rubbing</string>
+    <string name="spark_plug_cleaning">spark plug cleaning</string>
+    <string name="air_filter_cleaning">Air filter cleaning</string>
+    <string name="servicing_checklist">Servicing checklist</string>
+    <string name="book">Book</string>
+    <string name="u20b9_359">₹ 359</string>
+    <string name="_90_120_min">90-120 min</string>
+    <string name="_2k_rating">(2K+ rating)</string>
+    <string name="_4_8k">4.8K</string>
+    <string name="full_servicing">Full Servicing</string>
+    <string name="warranty">warranty</string>
+    <string name="_1_month_200kms_service_warranty">1 month/200kms service</string>
+    <string name="pricing">pricing</string>
+    <string name="deleteb">Delete</string>
+</resources>
